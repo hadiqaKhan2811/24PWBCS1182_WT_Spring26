@@ -1,0 +1,1 @@
+In this lab, I learned how to use basic Git commands such as add, commit, and push. I also gained experience in creating and deleting files and working with branches to manage different versions of my project. Using Git Bash and GitHub helped me understand how version control works for web development.
